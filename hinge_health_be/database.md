@@ -21,7 +21,6 @@
         "_id": "63e0a5d3ba34b502efa10cb8",
         "label": "root",
         "parent": null,
-        "root": true,
         "__v": 0
     }
 }
@@ -50,7 +49,6 @@
         "_id": "63e0a5e9ba34b502efa10cb9",
         "label": "node-1",
         "parent": "63e0a5d3ba34b502efa10cb8",
-        "root": false,
         "__v": 0
     }
 }

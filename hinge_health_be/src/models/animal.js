@@ -13,11 +13,6 @@ let AnimalSchema = new Schema({
     required: false,
     default: null,
   },
-  root: {
-    type: Boolean,
-    required: true,
-    default: false,
-  },
 });
 
 module.exports = mongoose.model("Animal", AnimalSchema);
