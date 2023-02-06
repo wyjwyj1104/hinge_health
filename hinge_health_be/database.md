@@ -5,7 +5,7 @@
 - POST http://localhost:3001/api/tree
 - Body:
   > > parent: ObjectId (optional, default null)
-  > > label: String (required, default "")
+  > > > label: String (required, default "")
 
 ```
 {
@@ -32,7 +32,7 @@
 - POST http://localhost:3001/api/tree
 - Body:
   > > parent: ObjectId (optional, default null)
-  > > label: String (required, default "")
+  > > > label: String (required, default "")
 
 ```
 {
